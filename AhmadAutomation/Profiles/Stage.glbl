@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Stage</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>VMS STAGING Environment URL</description>
+      <initValue>'https://stage.devintellifyvms.com/'</initValue>
+      <name>G_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin User (Encrypted)</description>
+      <initValue>'t0hqHEir/ko='</initValue>
+      <name>G_UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin Password (Encrypted)</description>
+      <initValue>'t0hqHEir/ko='</initValue>
+      <name>G_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Normal Time Out</description>
+      <initValue>5</initValue>
+      <name>G_TimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Short Time Out</description>
+      <initValue>15</initValue>
+      <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Shortest Time Out</description>
+      <initValue>1</initValue>
+      <name>G_ShortestTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Longest Time Out</description>
+      <initValue>60</initValue>
+      <name>G_LongestTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Monitoring the regions to add in Clients</description>
+      <initValue>3</initValue>
+      <name>G_NoOfRegions</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Supplier</description>
+      <initValue>'1L2j3D2mjfdfkt83idnI03VnVnUvbtYCiw/gP3PphMc='</initValue>
+      <name>G_SupplierUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Supplier Password</description>
+      <initValue>'grud1T4tYSMkd/8WL9aQQA=='</initValue>
+      <name>G_SupplierPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Msp</description>
+      <initValue>'u8nYL0Dy60qq8xI3S533LdsU797XD3bDmg3LmUIF6TQ='</initValue>
+      <name>G_MspUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Supplier Password</description>
+      <initValue>'grud1T4tYSMkd/8WL9aQQA=='</initValue>
+      <name>G_MspPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Client</description>
+      <initValue>'I6Up5x5F9cUXTMEg0vI8bxRB2Uqh/XaACYcuZtmMdjY='</initValue>
+      <name>G_ClientUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Client Password</description>
+      <initValue>'grud1T4tYSMkd/8WL9aQQA=='</initValue>
+      <name>G_ClientPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with Any user</description>
+   <name>LoginToVmsGeneric</name>
+   <tag>Vms</tag>
+   <comment></comment>
+   <testCaseGuid>e79baa61-6bdd-4a3f-ac6d-6e51a206fee8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c464dd4-ebe8-47e4-a687-9d8100412695</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12c1a50f-f184-4754-aba4-b25da9988fbc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c464dd4-ebe8-47e4-a687-9d8100412695</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12c1a50f-f184-4754-aba4-b25da9988fbc</id>
+      <masked>false</masked>
+      <name>UserPassword</name>
+   </variable>
+</TestCaseEntity>
